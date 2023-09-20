@@ -1,4 +1,3 @@
-# Data_Mining_Using_MySql
 # Data Mining with MySQL Workbench: Readme
 
 ## Overview
